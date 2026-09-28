@@ -1,3 +1,5 @@
+> 📄 简体中文：**[README.zh-CN.md](README.zh-CN.md)** · English: [README.md](README.md)
+
 # PentAGI
 
 <div align="center" style="font-size: 1.5em; margin: 20px 0;">
